@@ -1,3 +1,7 @@
+# Description
+Frontend is separate from backend. Ran on port 3000.
+Backend is ran on port 4000, but this can be changed on index.js line 41
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
